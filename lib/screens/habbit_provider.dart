@@ -1,27 +1,4 @@
-/*import 'package:flutter/foundation.dart';
 
-class HabitProvider extends ChangeNotifier {
-  int morningAzkarCount = 0;
-  int eveningAzkarCount = 0;
-
-  int get total => morningAzkarCount + eveningAzkarCount;
-
-  void incrementMorning() {
-    morningAzkarCount++;
-    notifyListeners();
-  }
-
-  void incrementEvening() {
-    eveningAzkarCount++;
-    notifyListeners();
-  }
-
-  void resetCounts() {
-    morningAzkarCount = 0;
-    eveningAzkarCount = 0;
-    notifyListeners();
-  }
-}*/
 
 import 'package:flutter/foundation.dart';
 
